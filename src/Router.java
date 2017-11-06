@@ -22,7 +22,7 @@ import java.util.Timer;
  * neighbors at regular intervals.
  *
  *
- * @author Majid Ghaderi
+ * @author Majid Ghaderi, edited by James MacIsaac
  * @version	2.1
  *
  */
